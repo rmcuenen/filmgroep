@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
+<xs:schema xmlns:xs="http://www.w3.org/2001/XMLSchema"
+           attributeFormDefault="unqualified" 
+           elementFormDefault="qualified" >
+    <xs:element name="MovieList">
+        <xs:complexType>
+            <xs:sequence>
+                <xs:element name="Movie" maxOccurs="unbounded">
+                    <xs:complexType>
+                        <xs:sequence>
+                            <xs:element name="Date" type="xs:date"/>
+                            <xs:element name="By">
+                                <xs:simpleType>
+                                    <xs:restriction base="xs:string">
+                                        <xs:enumeration value="Guido"/>
+                                        <xs:enumeration value="Marieke"/>
+                                        <xs:enumeration value="Mirianne"/>
+                                        <xs:enumeration value="Raymond"/>
+                                        <xs:enumeration value="Willem"/>
+                                    </xs:restriction>
+                                </xs:simpleType>
+                            </xs:element>
+                            <xs:element name="Title" type="MovieTitle"/>
+                            <xs:element name="Alternatives" minOccurs="0">
+                                <xs:complexType>
+                                    <xs:sequence>
+                                        <xs:element name="Title" type="MovieTitle" maxOccurs="unbounded"/>
+                                    </xs:sequence>
+                                </xs:complexType>
+                            </xs:element>
+                            <xs:element name="ReleaseDate" type="xs:date"/>
+                            <xs:element name="RunningTime" type="xs:positiveInteger"/>
+                            <xs:element name="Plot" type="xs:string"/>
+                            <xs:element name="PosterUrl" type="xs:anyURI" minOccurs="0"/>
+                            <xs:element name="Trailer" minOccurs="0">
+                                <xs:simpleType>
+                                    <xs:restriction base="xs:string">
+                                        <xs:pattern value="[A-Za-z0-9\-_]{11}"/>
+                                    </xs:restriction>
+                                </xs:simpleType>
+                            </xs:element>
+                        </xs:sequence>
+                    </xs:complexType>
+                </xs:element>
+            </xs:sequence>
+        </xs:complexType>
+    </xs:element>
+    
+    <xs:complexType name="MovieTitle">
+        <xs:simpleContent>
+            <xs:extension base="xs:string">
+                <xs:attribute name="language" type="xs:string" default="English"/>
+            </xs:extension>
+        </xs:simpleContent>
+    </xs:complexType>
+</xs:schema>
