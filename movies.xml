@@ -1,6 +1,16 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <MovieList>
     <Movie>
+        <Date>2016-10-14</Date>
+        <By>Marieke</By>
+        <Title>The Adventures of Mark Twain</Title>
+        <ReleaseDate>1985-03-01</ReleaseDate>
+        <RunningTime>86</RunningTime>
+        <Plot>Tom Sawyer, Becky Thatcher and Huck Finn join Mark Twain on his airship to meet Halley's Comet.</Plot>
+        <PosterUrl>6/68/Marktwaindvd2006.jpg</PosterUrl>
+        <Trailer>kAS1-lCF3yM</Trailer>
+    </Movie>
+    <Movie>
         <Date>2016-09-30</Date>
         <By>Mirianne</By>
         <Title>Now You See Me 2</Title>
