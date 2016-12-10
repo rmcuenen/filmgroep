@@ -1,6 +1,16 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <MovieList>
     <Movie>
+        <Date>2016-12-09</Date>
+        <By>Mirianne</By>
+        <Title>Hunt for the Wilderpeople</Title>
+        <ReleaseDate>2016-03-31</ReleaseDate>
+        <RunningTime>101</RunningTime>
+        <Plot>A national manhunt is ordered for a rebellious kid and his foster uncle who go missing in the wild New Zealand bush.</Plot>
+        <PosterUrl>4/44/Hunt_for_the_Wilderpeople.png</PosterUrl>
+        <Trailer>XGj3AogT9EM</Trailer>
+    </Movie>
+    <Movie>
         <Date>2016-11-25</Date>
         <By>Raymond</By>
         <Title>The Others</Title>
