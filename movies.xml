@@ -1,6 +1,19 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <MovieList>
     <Movie>
+        <Date>2017-01-27</Date>
+        <By>Willem</By>
+        <Title>The Impossible</Title>
+        <Alternatives>
+            <Title language="Spanish">Lo imposible</Title>
+        </Alternatives>
+        <ReleaseDate>2012-09-09</ReleaseDate>
+        <RunningTime>114</RunningTime>
+        <Plot>The story of a tourist family in Thailand caught in the destruction and chaotic aftermath of the 2004 Indian Ocean tsunami.</Plot>
+        <PosterUrl>b/b8/The_Impossible.jpg</PosterUrl>
+        <Trailer>Bgw394ZKsis</Trailer>
+    </Movie>
+    <Movie>
         <Date>2017-01-13</Date>
         <By>Marieke</By>
         <Title>The 100 Year-Old Man Who Climbed Out the Window and Disappeared</Title>
