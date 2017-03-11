@@ -1,6 +1,16 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <MovieList>
     <Movie>
+        <Date>2017-03-10</Date>
+        <By>Mirianne</By>
+        <Title>The Book Thief</Title>
+        <ReleaseDate>2013-11-27</ReleaseDate>
+        <RunningTime>131</RunningTime>
+        <Plot>While subjected to the horrors of World War II Germany, young Liesel finds solace by stealing books and sharing them with others. In the basement of her home, a Jewish refugee is being protected by her adoptive parents.</Plot>
+        <PosterUrl>7/72/The-Book-Thief_poster.jpg</PosterUrl>
+        <Trailer>92EBSmxinus</Trailer>
+    </Movie>
+    <Movie>
         <Date>2017-02-10</Date>
         <By>Raymond</By>
         <Title>In Bruges</Title>
