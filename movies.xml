@@ -1,6 +1,16 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <MovieList>
     <Movie>
+        <Date>2017-03-31</Date>
+        <By>Marieke</By>
+        <Title>Freaky Deaky</Title>
+        <ReleaseDate>2012-04-22</ReleaseDate>
+        <RunningTime>90</RunningTime>
+        <Plot>Set in 1974, a pair of '60s radicals rely on their bomb-making skills on their way to becoming capitalists.</Plot>
+        <PosterUrl/>
+        <Trailer>IwCL9wdiPyc</Trailer>
+    </Movie>
+    <Movie>
         <Date>2017-03-10</Date>
         <By>Mirianne</By>
         <Title>The Book Thief</Title>
