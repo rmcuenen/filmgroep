@@ -1,6 +1,16 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <MovieList>
     <Movie>
+        <Date>2017-05-19</Date>
+        <By>Raymond</By>
+        <Title>Burn After Reading</Title>
+        <ReleaseDate>2008-09-12</ReleaseDate>
+        <RunningTime>96</RunningTime>
+        <Plot>A disk containing the memoirs of a CIA agent ends up in the hands of two unscrupulous gym employees who attempt to sell it.</Plot>
+        <PosterUrl>4/42/Burn_After_Reading.png</PosterUrl>
+        <Trailer>ossq0Cay7mk</Trailer>
+    </Movie>
+    <Movie>
         <Date>2017-04-28</Date>
         <By>Willem</By>
         <Title>The 101-Year-Old Man Who Skipped Out on the Bill and Disappeared</Title>
