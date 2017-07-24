@@ -1,6 +1,19 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <MovieList>
     <Movie>
+        <Date>2017-07-21</Date>
+        <By>Willem</By>
+        <Title>Look Who's Back</Title>
+        <Alternatives>
+            <Title language="German">Er ist wieder da</Title>
+        </Alternatives>
+        <ReleaseDate>2015-10-08</ReleaseDate>
+        <RunningTime>116</RunningTime>
+        <Plot>Adolf Hitler wakes up in the 21st century. He quickly gains media attention, but while Germany finds him hilarious and charming, Hitler makes some serious observations about society.</Plot>
+        <PosterUrl>a/a6/ErIstWiederDa.jpg</PosterUrl>
+        <Trailer>MkGQcw52KQQ</Trailer>
+    </Movie>
+    <Movie>
         <Date>2017-07-07</Date>
         <By>Marieke</By>
         <Title>Demain tout commence</Title>
@@ -41,7 +54,7 @@
         <RunningTime>108</RunningTime>
         <Plot>The 101 year old man Allan Karlsson goes through Europe in search for a Russian soda recipe he lost during the early 70s. Unfortunately, he is not the only one who is looking for it.</Plot>
         <PosterUrl/>
-        <Trailer/>
+        <Trailer>mN83l9Des3M</Trailer>
     </Movie>
     <Movie>
         <Date>2017-03-31</Date>
