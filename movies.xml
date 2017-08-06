@@ -1,6 +1,16 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <MovieList>
     <Movie>
+        <Date>2017-08-04</Date>
+        <By>Raymond</By>
+        <Title>Trance</Title>
+        <ReleaseDate>2013-03-27</ReleaseDate>
+        <RunningTime>101</RunningTime>
+        <Plot>A fine art auctioneer mixed up with a gang, joins forces with a hypnotherapist to recover a lost painting. As boundaries between desire, reality and hypnotic suggestion begin to blur, the stakes rise faster than anyone could have anticipated.</Plot>
+        <PosterUrl>3/3b/Trance2013Poster.jpg</PosterUrl>
+        <Trailer>976y9Xm6BkY</Trailer>
+    </Movie>
+    <Movie>
         <Date>2017-07-21</Date>
         <By>Willem</By>
         <Title>Look Who's Back</Title>
