@@ -1,6 +1,16 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <MovieList>
     <Movie>
+        <Date>2017-08-25</Date>
+        <By>Marieke</By>
+        <Title>Ghost Town</Title>
+        <ReleaseDate>2008-09-19</ReleaseDate>
+        <RunningTime>102</RunningTime>
+        <Plot>Bertram Pincus is a man whose people skills leave much to be desired. When Pincus dies unexpectedly, but is miraculously revived after seven minutes, he wakes up to discover that he now has the annoying ability to see ghosts.</Plot>
+        <PosterUrl>3/31/Ghost_town_poster_08.jpg</PosterUrl>
+        <Trailer>hWbCr7-oS9I</Trailer>
+    </Movie>
+    <Movie>
         <Date>2017-08-04</Date>
         <By>Raymond</By>
         <Title>Trance</Title>
