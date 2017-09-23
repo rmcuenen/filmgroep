@@ -1,6 +1,16 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <MovieList>
     <Movie>
+        <Date>2017-09-22</Date>
+        <By>Willem</By>
+        <Title>Naked</Title>
+        <ReleaseDate>2017-08-11</ReleaseDate>
+        <RunningTime>96</RunningTime>
+        <Plot>Nervous about finally getting married, a guy is forced to relive the same nerve-wracking hours over and over again until he gets things right on his wedding day.</Plot>
+        <PosterUrl>8/8c/Naked_%282017_film%29_poster.jpg</PosterUrl>
+        <Trailer>nIgeVoVMv90</Trailer>
+    </Movie>
+    <Movie>
         <Date>2017-08-25</Date>
         <By>Marieke</By>
         <Title>Ghost Town</Title>
