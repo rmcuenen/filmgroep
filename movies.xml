@@ -1,6 +1,16 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <MovieList>
     <Movie>
+        <Date>2017-10-13</Date>
+        <By>Raymond</By>
+        <Title>The Good Thief</Title>
+        <ReleaseDate>2003-04-25</ReleaseDate>
+        <RunningTime>109</RunningTime>
+        <Plot>An aging gambler on a losing streak attempts to rob a casino in Monte Carlo. But someone's already tipped off the cops before he even makes a move.</Plot>
+        <PosterUrl>f/f3/The_Good_Thief_%28film%29.jpg</PosterUrl>
+        <Trailer>LYnwrJX5flk</Trailer>
+    </Movie>
+    <Movie>
         <Date>2017-09-22</Date>
         <By>Willem</By>
         <Title>Naked</Title>
