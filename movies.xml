@@ -1,6 +1,16 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <MovieList>
     <Movie>
+        <Date>2017-11-17</Date>
+        <By>Marieke</By>
+        <Title>Kiss Kiss Bang Bang</Title>
+        <ReleaseDate>2005-11-18</ReleaseDate>
+        <RunningTime>103</RunningTime>
+        <Plot>A murder mystery brings together a private eye, a struggling actress, and a thief masquerading as an actor.</Plot>
+        <PosterUrl>6/61/Kiss_kiss_bang_bang_poster.jpg</PosterUrl>
+        <Trailer>K1xsTRG-O04</Trailer>
+    </Movie>
+    <Movie>
         <Date>2017-10-13</Date>
         <By>Raymond</By>
         <Title>The Good Thief</Title>
