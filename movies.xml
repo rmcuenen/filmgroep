@@ -1,6 +1,16 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <MovieList>
     <Movie>
+        <Date>2017-12-15</Date>
+        <By>Mirianne</By>
+        <Title>Captain Fantastic</Title>
+        <ReleaseDate>2016-01-23</ReleaseDate>
+        <RunningTime>118</RunningTime>
+        <Plot>In the forests of the Pacific Northwest, a father devoted to raising his six kids with a rigorous physical and intellectual education is forced to leave his paradise and enter the world, challenging his idea of what it means to be a parent.</Plot>
+        <PosterUrl>c/c2/Captain_Fantastic_poster.jpg</PosterUrl>
+        <Trailer>w5jeBvjcJe4</Trailer>
+    </Movie>
+    <Movie>
         <Date>2017-11-17</Date>
         <By>Marieke</By>
         <Title>Kiss Kiss Bang Bang</Title>
