@@ -1,6 +1,16 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <MovieList>
     <Movie>
+        <Date>2018-01-05</Date>
+        <By>Willem</By>
+        <Title>The Forbidden Kingdom</Title>
+        <ReleaseDate>2008-04-18</ReleaseDate>
+        <RunningTime>104</RunningTime>
+        <Plot>A discovery made by a kung fu obsessed American teen sends him on an adventure to China, where he joins up with a band of martial arts warriors in order to free the imprisoned Monkey King.</Plot>
+        <PosterUrl>5/51/ForbiddenKingdomPoster.jpg</PosterUrl>
+        <Trailer>6t8_jG56mEo</Trailer>
+    </Movie>
+    <Movie>
         <Date>2017-12-15</Date>
         <By>Mirianne</By>
         <Title>Captain Fantastic</Title>
