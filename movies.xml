@@ -1,6 +1,16 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <MovieList>
     <Movie>
+        <Date>2018-03-09</Date>
+        <By>Mirianne</By>
+        <Title>Brigsby Bear</Title>
+        <ReleaseDate>2017-09-21</ReleaseDate>
+        <RunningTime>97</RunningTime>
+        <Plot>Brigsby Bear Adventures is a children's TV show produced for an audience of one: James. When the show abruptly ends, James's life changes forever, and he sets out to finish the story ...</Plot>
+        <PosterUrl>4/4b/Brigsby_Bear.png</PosterUrl>
+        <Trailer>JEohOb38hhs</Trailer>
+    </Movie>
+    <Movie>
         <Date>2018-02-02</Date>
         <By>Raymond</By>
         <Title>Sweeney Todd: The Demon Barber of Fleet Street</Title>
