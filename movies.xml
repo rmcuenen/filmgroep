@@ -1,6 +1,19 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <MovieList>
     <Movie>
+        <Date>2018-06-08</Date>
+        <By>Marieke</By>
+        <Title>On the Other Side of the Tracks</Title>
+        <Alternatives>
+            <Title language="French">De l'autre côté du périph</Title>
+        </Alternatives>
+        <ReleaseDate>2012-12-19</ReleaseDate>
+        <RunningTime>96</RunningTime>
+        <Plot>Two mismatched cops team up to investigate the murder of a business mogul's wife.</Plot>
+        <PosterUrl/>
+        <Trailer>hHGmlb6pUNc</Trailer>
+    </Movie>
+    <Movie>
         <Date>2018-03-09</Date>
         <By>Mirianne</By>
         <Title>Brigsby Bear</Title>
