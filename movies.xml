@@ -1,6 +1,16 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <MovieList>
     <Movie>
+        <Date>2018-07-06</Date>
+        <By>Willem</By>
+        <Title>Iron Sky</Title>
+        <ReleaseDate>2012-04-04</ReleaseDate>
+        <RunningTime>93</RunningTime>
+        <Plot>The Nazis set up a secret base on the dark side of the moon in 1945 where they hide out and plan to return to power in 2018.</Plot>
+        <PosterUrl>6/6f/Iron_sky_poster.png</PosterUrl>
+        <Trailer>4lJAw_BtM2g</Trailer>
+    </Movie>
+    <Movie>
         <Date>2018-06-08</Date>
         <By>Marieke</By>
         <Title>On the Other Side of the Tracks</Title>
