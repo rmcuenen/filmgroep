@@ -1,6 +1,19 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <MovieList>
     <Movie>
+        <Date>2018-08-10</Date>
+        <By>Raymond</By>
+        <Title>Adventures of Arsene Lupin</Title>
+        <Alternatives>
+            <Title language="French">Arsène Lupin</Title>
+        </Alternatives>
+        <ReleaseDate>2004-10-13</ReleaseDate>
+        <RunningTime>125</RunningTime>
+        <Plot>As the daring thief Arsène Lupin (Duris) ransacks the homes of wealthy Parisians, the police, with a secret weapon in their arsenal, attempt to ferret him out.</Plot>
+        <PosterUrl>6/68/Arsène_Lupin_2004_film_poster.jpg</PosterUrl>
+        <Trailer>sWCT3SpBqrA</Trailer>
+    </Movie>
+    <Movie>
         <Date>2018-07-06</Date>
         <By>Willem</By>
         <Title>Iron Sky</Title>
