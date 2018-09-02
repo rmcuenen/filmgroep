@@ -1,6 +1,16 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <MovieList>
     <Movie>
+        <Date>2018-08-31</Date>
+        <By>Mirianne</By>
+        <Title>PK</Title>
+        <ReleaseDate>2014-12-19</ReleaseDate>
+        <RunningTime>153</RunningTime>
+        <Plot>An alien on Earth loses the only device he can use to communicate with his spaceship. His innocent nature and child-like questions force the country to evaluate the impact of religion on its people.</Plot>
+        <PosterUrl>c/c3/PK_poster.jpg</PosterUrl>
+        <Trailer>SOXWc32k4zA</Trailer>
+    </Movie>
+    <Movie>
         <Date>2018-08-10</Date>
         <By>Raymond</By>
         <Title>Adventures of Arsene Lupin</Title>
