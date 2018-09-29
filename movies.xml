@@ -1,6 +1,16 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <MovieList>
     <Movie>
+        <Date>2018-09-28</Date>
+        <By>Marieke</By>
+        <Title>And So It Goes</Title>
+        <ReleaseDate>2014-07-25</ReleaseDate>
+        <RunningTime>94</RunningTime>
+        <Plot>A self-absorbed realtor enlists the help of his neighbor when he's suddenly left in charge of the granddaughter he never knew existed until his estranged son drops her off at his home.</Plot>
+        <PosterUrl>a/a4/And_So_It_Goes_poster.jpg</PosterUrl>
+        <Trailer>hX5pXdUw8Is</Trailer>
+    </Movie>
+    <Movie>
         <Date>2018-08-31</Date>
         <By>Mirianne</By>
         <Title>PK</Title>
