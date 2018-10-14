@@ -1,6 +1,16 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <MovieList>
     <Movie>
+        <Date>2018-10-12</Date>
+        <By>Willem</By>
+        <Title>Indiana Jones and the Kingdom of the Crystal Skull</Title>
+        <ReleaseDate>2008-05-22</ReleaseDate>
+        <RunningTime>122</RunningTime>
+        <Plot>In 1957, archaeologist and adventurer Dr. Henry "Indiana" Jones, Jr. is called back into action and becomes entangled in a Soviet plot to uncover the secret behind mysterious artifacts known as the Crystal Skulls.</Plot>
+        <PosterUrl>d/d5/Kingdomofthecrystalskull.jpg</PosterUrl>
+        <Trailer>gQT5k8qsI34</Trailer>
+    </Movie>
+    <Movie>
         <Date>2018-09-28</Date>
         <By>Marieke</By>
         <Title>And So It Goes</Title>
