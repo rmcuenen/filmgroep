@@ -1,6 +1,16 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <MovieList>
     <Movie>
+        <Date>2018-12-07</Date>
+        <By>Mirianne</By>
+        <Title>Lars and the Real Girl</Title>
+        <ReleaseDate>2007-11-02</ReleaseDate>
+        <RunningTime>106</RunningTime>
+        <Plot>A delusional young man strikes up an unconventional relationship with a doll he finds on the Internet.</Plot>
+        <PosterUrl>d/db/Lars_real_girl.jpg</PosterUrl>
+        <Trailer>rmuwurpAVwU</Trailer>
+    </Movie>
+    <Movie>
         <Date>2018-11-02</Date>
         <By>Raymond</By>
         <Title>Peter Rabbit</Title>
