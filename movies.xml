@@ -1,6 +1,16 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <MovieList>
     <Movie>
+        <Date>2018-12-28</Date>
+        <By>Marieke</By>
+        <Title>Overboard</Title>
+        <ReleaseDate>2018-05-04</ReleaseDate>
+        <RunningTime>112</RunningTime>
+        <Plot>After a spoiled, wealthy yacht owner is thrown overboard and loses his memory, a mistreated employee convinces him that he is her working-class husband.</Plot>
+        <PosterUrl>e/e3/Overboard_2018_remake_poster.jpg</PosterUrl>
+        <Trailer>OLAJ0ooorDU</Trailer>
+    </Movie>
+    <Movie>
         <Date>2018-12-07</Date>
         <By>Mirianne</By>
         <Title>Lars and the Real Girl</Title>
