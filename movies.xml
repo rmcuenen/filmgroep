@@ -1,6 +1,16 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <MovieList>
     <Movie>
+        <Date>2019-01-18</Date>
+        <By>Willem</By>
+        <Title>Master and Commander: The Far Side of the World</Title>
+        <ReleaseDate>2003-11-14</ReleaseDate>
+        <RunningTime>138</RunningTime>
+        <Plot>During the Napoleonic Wars, a brash British captain pushes his ship and crew to their limits in pursuit of a formidable French war vessel around South America.</Plot>
+        <PosterUrl>b/bf/Master_and_Commander-The_Far_Side_of_the_World_poster.png</PosterUrl>
+        <Trailer>4wDVf5Tkc88</Trailer>
+    </Movie>
+    <Movie>
         <Date>2018-12-28</Date>
         <By>Marieke</By>
         <Title>Overboard</Title>
