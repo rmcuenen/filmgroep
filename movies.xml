@@ -1,6 +1,16 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <MovieList>
     <Movie>
+        <Date>2019-02-08</Date>
+        <By>Raymond</By>
+        <Title>Murder by Numbers</Title>
+        <ReleaseDate>2002-04-19</ReleaseDate>
+        <RunningTime>115</RunningTime>
+        <Plot>Two gifted high school students execute a "perfect" murder - then become engaged in an intellectual contest with a seasoned homicide detective.</Plot>
+        <PosterUrl>4/45/Murder_by_Numbers_film.jpg</PosterUrl>
+        <Trailer>RDEAL9vbpM0</Trailer>
+    </Movie>
+    <Movie>
         <Date>2019-01-18</Date>
         <By>Willem</By>
         <Title>Master and Commander: The Far Side of the World</Title>
