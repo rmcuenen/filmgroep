@@ -1,6 +1,16 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <MovieList>
     <Movie>
+        <Date>2019-04-20</Date>
+        <By>Willem</By>
+        <Title>The Highwaymen</Title>
+        <ReleaseDate>2019-03-29</ReleaseDate>
+        <RunningTime>132</RunningTime>
+        <Plot>A pair of Texas Rangers come out of retirement to catch the infamous outlaws Bonnie and Clyde.</Plot>
+        <PosterUrl>6/62/The_Highwaymen_film_poster.jpeg</PosterUrl>
+        <Trailer>aH6vC-BBKOc</Trailer>
+    </Movie>
+    <Movie>
         <Date>2019-03-29</Date>
         <By>Marieke</By>
         <Title>Hidden Figures</Title>
