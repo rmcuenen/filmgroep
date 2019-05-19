@@ -1,6 +1,16 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <MovieList>
     <Movie>
+        <Date>2019-05-18</Date>
+        <By>Raymond</By>
+        <Title>The Cloverfield Paradox</Title>
+        <ReleaseDate>2018-02-04</ReleaseDate>
+        <RunningTime>102</RunningTime>
+        <Plot>Orbiting a planet on the brink of war, scientists test a device to solve an energy crisis, and end up face-to-face with a dark alternate reality.</Plot>
+        <PosterUrl>e/e5/Cloverfield_paradox_poster.jpg</PosterUrl>
+        <Trailer>8brYvhEg5Aw</Trailer>
+    </Movie>
+    <Movie>
         <Date>2019-04-20</Date>
         <By>Willem</By>
         <Title>The Highwaymen</Title>
