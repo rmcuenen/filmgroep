@@ -1,6 +1,16 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <MovieList>
     <Movie>
+        <Date>2019-06-22</Date>
+        <By>Mirianne</By>
+        <Title>The Straight Story</Title>
+        <ReleaseDate>1999-10-21</ReleaseDate>
+        <RunningTime>112</RunningTime>
+        <Plot>An old man makes a long journey by lawnmower to mend his relationship with an ill brother.</Plot>
+        <PosterUrl>8/8a/The_Straight_Story_poster.jpg</PosterUrl>
+        <Trailer>e0zb_baTzkk</Trailer>
+    </Movie>
+    <Movie>
         <Date>2019-05-18</Date>
         <By>Raymond</By>
         <Title>The Cloverfield Paradox</Title>
