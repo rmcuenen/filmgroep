@@ -1,6 +1,16 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <MovieList>
     <Movie>
+        <Date>2019-07-27</Date>
+        <By>Marieke</By>
+        <Title>BlacKkKlansman</Title>
+        <ReleaseDate>2018-08-10</ReleaseDate>
+        <RunningTime>135</RunningTime>
+        <Plot>Ron Stallworth, an African American police officer from Colorado Springs, CO, successfully manages to infiltrate the local Ku Klux Klan branch with the help of a Jewish surrogate who eventually becomes its leader. Based on actual events.</Plot>
+        <PosterUrl>d/d5/BlacKkKlansman.png</PosterUrl>
+        <Trailer>pFc6I0rgmgY</Trailer>
+    </Movie>
+    <Movie>
         <Date>2019-06-22</Date>
         <By>Mirianne</By>
         <Title>The Straight Story</Title>
