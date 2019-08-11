@@ -1,6 +1,16 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <MovieList>
     <Movie>
+        <Date>2019-08-10</Date>
+        <By>Willem</By>
+        <Title>Hook</Title>
+        <ReleaseDate>1991-12-11</ReleaseDate>
+        <RunningTime>142</RunningTime>
+        <Plot>When Captain Hook kidnaps his children, an adult Peter Pan must return to Neverland and reclaim his youthful spirit in order to challenge his old enemy.</Plot>
+        <PosterUrl>0/0e/Hook_poster_transparent.png</PosterUrl>
+        <Trailer>y98AuG2-yU4</Trailer>
+    </Movie>
+    <Movie>
         <Date>2019-07-27</Date>
         <By>Marieke</By>
         <Title>BlacKkKlansman</Title>
