@@ -1,6 +1,19 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <MovieList>
     <Movie>
+        <Date>2019-10-12</Date>
+        <By>Marieke</By>
+        <Title>Perfect Strangers</Title>
+        <Alternatives>
+            <Title language="Italian">Perfetti sconosciuti</Title>
+        </Alternatives>
+        <ReleaseDate>2016-02-11</ReleaseDate>
+        <RunningTime>97</RunningTime>
+        <Plot>Seven long-time friends get together for a dinner. When they decide to share with each other the content of every text message, email and phone call they receive, many secrets start to unveil and the equilibrium trembles.</Plot>
+        <PosterUrl>7/71/Perfetti-Sconosciuti-Poster-Locandina-2016.jpg</PosterUrl>
+        <Trailer>-lOUnBsjGuY</Trailer>
+    </Movie>
+    <Movie>
         <Date>2019-09-21</Date>
         <By>Raymond</By>
         <Title>The Wandering Earth</Title>
