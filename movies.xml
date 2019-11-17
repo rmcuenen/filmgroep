@@ -1,6 +1,16 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <MovieList>
     <Movie>
+        <Date>2019-11-16</Date>
+        <By>Willem</By>
+        <Title>Holiday in the Wild</Title>
+        <ReleaseDate>2010-11-01</ReleaseDate>
+        <RunningTime>85</RunningTime>
+        <Plot>Jilted by her husband on the eve of embarking on an African safari, a woman travels to the continent alone where she meets an elephant conservationist.</Plot>
+        <PosterUrl>9/99/Holiday_in_the_Wild_poster.jpg</PosterUrl>
+        <Trailer>8miCh30GcGU</Trailer>
+    </Movie>
+    <Movie>
         <Date>2019-10-12</Date>
         <By>Marieke</By>
         <Title>Perfect Strangers</Title>
