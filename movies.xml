@@ -1,6 +1,16 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <MovieList>
     <Movie>
+        <Date>2019-12-28</Date>
+        <By>Marieke</By>
+        <Title>The Lion King</Title>
+        <ReleaseDate>2019-07-19</ReleaseDate>
+        <RunningTime>118</RunningTime>
+        <Plot>After the murder of his father, a young lion prince flees his kingdom only to learn the true meaning of responsibility and bravery.</Plot>
+        <PosterUrl>9/9d/Disney_The_Lion_King_2019.jpg</PosterUrl>
+        <Trailer>7TavVZMewpY</Trailer>
+    </Movie>
+    <Movie>
         <Date>2019-12-08</Date>
         <By>Raymond</By>
         <Title>Limitless</Title>
