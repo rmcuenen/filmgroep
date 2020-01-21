@@ -1,6 +1,16 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <MovieList>
     <Movie>
+        <Date>2020-01-18</Date>
+        <By>Willem</By>
+        <Title>Flypaper</Title>
+        <ReleaseDate>2011-08-25</ReleaseDate>
+        <RunningTime>87</RunningTime>
+        <Plot>A man caught in the middle of two simultaneous robberies at the same bank desperately tries to protect the teller with whom he's secretly in love.</Plot>
+        <PosterUrl>e/e8/Flypaper2011Poster.jpg</PosterUrl>
+        <Trailer>fKCzQ2BGOpo</Trailer>
+    </Movie>
+    <Movie>
         <Date>2019-12-28</Date>
         <By>Marieke</By>
         <Title>The Lion King</Title>
