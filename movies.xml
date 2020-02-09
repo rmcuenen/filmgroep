@@ -1,6 +1,16 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <MovieList>
     <Movie>
+        <Date>2020-02-08</Date>
+        <By>Raymond</By>
+        <Title>Death Defying Acts</Title>
+        <ReleaseDate>2008-03-13</ReleaseDate>
+        <RunningTime>97</RunningTime>
+        <Plot>On a tour of Britain in 1926, Harry Houdini enters into a passionate affair with a psychic out to con the famous magician.</Plot>
+        <PosterUrl>d/d1/Deathdefyingacts-poster.jpg</PosterUrl>
+        <Trailer>4ZgR_7lBxTU</Trailer>
+    </Movie>
+    <Movie>
         <Date>2020-01-18</Date>
         <By>Willem</By>
         <Title>Flypaper</Title>
